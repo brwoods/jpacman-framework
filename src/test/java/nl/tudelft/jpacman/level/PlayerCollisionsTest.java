@@ -7,5 +7,6 @@ import static org.junit.jupiter.api.Assertions.*;
 class PlayerCollisionsTest {
 
     @Test
+    void foo()  {}
 
 }
